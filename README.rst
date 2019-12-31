@@ -59,7 +59,10 @@ Example install, using VirtualEnv:
    # python setup.py install
 
    # or install via pip
-   pip install df2gspread
+   pip install git+https://github.com/uehara1414/df2gspread
+   
+   # or install via pipenv
+   pipenv install 
 
 
 Access Credentials
