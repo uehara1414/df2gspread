@@ -62,7 +62,7 @@ Example install, using VirtualEnv:
    pip install git+https://github.com/uehara1414/df2gspread
    
    # or install via pipenv
-   pipenv install 
+   pipenv install git+https://github.com/uehara1414/df2gspread.git#egg=df2gspread
 
 
 Access Credentials
